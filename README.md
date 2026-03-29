@@ -45,3 +45,6 @@ export const mySkill = createSkill({
 - make registry behavior obvious
 - provide a clean starting point for richer provider-backed skills later
 
+## Design note
+
+See [docs/design-note-001-skill-boundary.md](./docs/design-note-001-skill-boundary.md).
